@@ -1,0 +1,64 @@
+.parking-entry-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: up;
+    min-height: 100vh;
+    margin-top: 50px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .entry-form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 80%;
+    max-width: 600px;
+  }
+  
+  .entry-form select {
+    margin-left: 10px;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .button-container {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .button-container button {
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-container button:hover {
+    background-color: #45a049;
+  }
+  
+  .vehicle-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    list-style: none;
+    margin: 0;
+  }
+  
+  .vehicle-list li {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
