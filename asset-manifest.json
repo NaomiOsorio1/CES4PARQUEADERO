@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CES4PARQUEADERO/static/css/main.ba9cd8a0.css",
+    "main.js": "/CES4PARQUEADERO/static/js/main.b9510715.js",
+    "static/js/488.2cda4bb6.chunk.js": "/CES4PARQUEADERO/static/js/488.2cda4bb6.chunk.js",
+    "index.html": "/CES4PARQUEADERO/index.html",
+    "main.ba9cd8a0.css.map": "/CES4PARQUEADERO/static/css/main.ba9cd8a0.css.map",
+    "main.b9510715.js.map": "/CES4PARQUEADERO/static/js/main.b9510715.js.map",
+    "488.2cda4bb6.chunk.js.map": "/CES4PARQUEADERO/static/js/488.2cda4bb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba9cd8a0.css",
+    "static/js/main.b9510715.js"
+  ]
+}
